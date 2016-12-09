@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Nov 27 20:32:08 CST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=bingchuanSimulator_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.github.jptx1234.bingchuanSimulator.bingchuanSimulator
+manifest.file=MANIFEST.MF
+jarname.isextern=false
+onejar.expand=
+excludes=<po|bingchuanSimulator>~com/~github/~jptx1234/~bingchuanSimulator/~uitl/;<po|bingchuanSimulator>~com/~github/~jptx1234/~bingchuanSimulator/~messages - \u526F\u672C.properties;<po|bingchuanSimulator>~com/~github/~jptx1234/~bingchuanSimulator/~Test.class
+includes=
